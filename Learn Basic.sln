@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfStatement_Renewal Subcrip
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfStatement_RollDiceGame", "Roll Dice Game\IfStatement_RollDiceGame.csproj", "{1D9F9465-F9BA-4877-9ECF-D0320FF21F7D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayForeach_Declare", "Array\ArrayForeach_Declare.csproj", "{A2036765-1675-4145-AB56-52CC857D51F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D9F9465-F9BA-4877-9ECF-D0320FF21F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D9F9465-F9BA-4877-9ECF-D0320FF21F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D9F9465-F9BA-4877-9ECF-D0320FF21F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2036765-1675-4145-AB56-52CC857D51F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2036765-1675-4145-AB56-52CC857D51F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2036765-1675-4145-AB56-52CC857D51F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2036765-1675-4145-AB56-52CC857D51F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
